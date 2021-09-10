@@ -87,7 +87,7 @@ sudo -H pip3 install pytest
     pytest assignments/18CentroMatriz
     ```
 
-- ## 19 Centro Matriz
+- ## 19 Suma Matrices
     ### Run command
     ```
     pytest assignments/19SumaMatrices
